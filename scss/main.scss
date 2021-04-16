@@ -1,0 +1,14 @@
+@import url(https://hansanghyeon.github.io/font-d2coding/d2coding.css);
+
+pre,
+code {
+  * {
+    font-family: D2Coding, "D2 coding", monosapce;
+  }
+}
+@media (prefers-color-scheme: light) {
+  @import "highlight-theme/github.scss";
+}
+@media (prefers-color-scheme: dark) {
+  @import "highlight-theme/dracula.scss";
+}
