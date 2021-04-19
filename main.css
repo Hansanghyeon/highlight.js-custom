@@ -1,5 +1,10 @@
 @charset "UTF-8";
 @import url(https://hansanghyeon.github.io/font-d2coding/d2coding.css);
+pre,
+code {
+  font-family: D2Coding, "D2 coding", monosapce;
+}
+
 pre *,
 code * {
   font-family: D2Coding, "D2 coding", monosapce;
