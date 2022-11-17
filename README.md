@@ -19,11 +19,11 @@ Dark Theme: dracula
 link 방식
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/Hansanghyeon/highlight.js-custom/main/main.css">
+<link rel="stylesheet" type="text/css" href="https://hansanghyeon.github.io/highlight.js-custom/main.css">
 ```
 
 import 방식
 
 ```css
-@import url('https://raw.githubusercontent.com/Hansanghyeon/highlight.js-custom/main/main.css');
+@import url('https://hansanghyeon.github.io/highlight.js-custom/main.css');
 ```
