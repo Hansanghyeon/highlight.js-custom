@@ -1,0 +1,18 @@
+@import url(https://webfontbox.github.io/D2Coding/d2coding.css);
+
+html {
+  pre,
+  code {
+    font-family: D2Coding, "D2 coding", monosapce;
+    * {
+      font-family: D2Coding, "D2 coding", monosapce;
+    }
+  }
+}
+
+
+@import "theme-v11_9_0/github";
+
+.dark {
+  @import "theme-v11_9_0/github-dark-dimmed";
+}

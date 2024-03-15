@@ -1,0 +1,14 @@
+{
+  "name": "highlight.js-custom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Hansanghyeon/highlight.js-custom.git",
+  "author": "Hansanghyeon <999@hyeon.pro>",
+  "license": "MIT",
+  "scripts": {
+    "build": "sass src/main.scss:main.css src/class.scss:class.css --no-source-map"
+  },
+  "dependencies": {
+    "sass": "^1.72.0"
+  }
+}
