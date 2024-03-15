@@ -1,12 +1,13 @@
 # highlight.js
 
-REF - https://github.com/highlightjs/highlight.js/tree/main/src/styles
-REF - https://highlightjs.org/examples
+- `highlight.js`의 테마를 미리생성해서 간편하게 가져다 사용할수있다 
+- 브라우저 테마에따라 다른 모습으로 나타낸다
+  - Light Theme: github
+  - Dark Theme: github-dark-dimmed
 
-`highlight.js`의 테마를 브라우저 테마에따라 다른 모습으로 나타내기위해서 제작
-
-Light Theme: github
-Dark Theme: github-dark-dimmed
+참고자료
+- REF - https://github.com/highlightjs/highlight.js/tree/main/src/styles
+- REF - https://highlightjs.org/examples
 
 ## 사용방법
 
